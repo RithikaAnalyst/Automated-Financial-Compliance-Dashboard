@@ -1,0 +1,2 @@
+invoice_id,issue_type,severity,description
+INV-004,missing_approval,high,High value invoice 200000.0 missing approval

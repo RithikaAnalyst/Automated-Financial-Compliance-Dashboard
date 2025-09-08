@@ -1,0 +1,6 @@
+invoice_id,vendor_id,invoice_date,invoice_amount,tax_amount,currency,approval_status,supporting_doc_link,posting_id,ledger_date,ref_invoice_id,account_code,debit,credit,description,amount,match_type,match_score,gl_amount,pct_diff,key_amount,date_diff
+INV-001,VEND-01,2025-08-15,1000.0,180.0,INR,Approved,https://docs.link/inv001.pdf,GL-1001,2025-08-16,INV-001,AP,1000.0,0.0,Payment for vendor 01,1000.0,exact,1.0,,,,
+INV-002,VEND-02,2025-08-20,2500.0,450.0,INR,Approved,https://docs.link/inv002.pdf,GL-1002,2025-08-20,INV-002,AP,2500.0,0.0,Payment for vendor 02,2500.0,exact,1.0,,,,
+INV-003,VEND-01,2025-08-22,1500.0,270.0,INR,Pending,https://docs.link/inv003.pdf,GL-1003,2025-08-23,,AP,1500.0,0.0,Unlinked entry,1500.0,fuzzy,0.6,,,1500.0,1.0
+INV-004,VEND-03,2025-08-25,200000.0,36000.0,INR,Pending,https://docs.link/inv004.pdf,GL-1004,2025-09-01,INV-004,AP,200000.0,0.0,Vendor 03 high value,200000.0,exact,1.0,,,,
+INV-005,VEND-04,2025-08-28,500.0,90.0,INR,Approved,https://docs.link/inv005.pdf,GL-1005,2025-08-28,INV-005,AP,480.0,0.0,Short payment vendor 04,480.0,exact,1.0,,,,

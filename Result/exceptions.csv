@@ -1,0 +1,2 @@
+invoice_id,vendor_id,invoice_date,invoice_amount,tax_amount,currency,approval_status,supporting_doc_link,issue
+INV-006,VEND-02,2025-08-30,1200.0,216.0,INR,Approved,https://docs.link/inv006.pdf,unmatched_invoice
