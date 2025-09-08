@@ -1,0 +1,7 @@
+posting_id,ledger_date,ref_invoice_id,account_code,debit,credit,description
+GL-1001,2025-08-16,INV-001,AP,1000.0,0,Payment for vendor 01
+GL-1002,2025-08-20,INV-002,AP,2500.0,0,Payment for vendor 02
+GL-1003,2025-08-23,,AP,1500.0,0,Unlinked entry
+GL-1004,2025-09-01,INV-004,AP,200000.0,0,Vendor 03 high value
+GL-1005,2025-08-28,INV-005,AP,480.0,0,Short payment vendor 04
+GL-1006,2025-09-02,INV-007,AP,1300.0,0,Unknown invoice

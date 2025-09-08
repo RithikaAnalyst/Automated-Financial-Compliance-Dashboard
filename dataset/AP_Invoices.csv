@@ -1,0 +1,7 @@
+invoice_id,vendor_id,invoice_date,invoice_amount,tax_amount,currency,approval_status,supporting_doc_link
+INV-001,VEND-01,2025-08-15,1000.0,180.0,INR,Approved,https://docs.link/inv001.pdf
+INV-002,VEND-02,2025-08-20,2500.0,450.0,INR,Approved,https://docs.link/inv002.pdf
+INV-003,VEND-01,2025-08-22,1500.0,270.0,INR,Pending,https://docs.link/inv003.pdf
+INV-004,VEND-03,2025-08-25,200000.0,36000.0,INR,Pending,https://docs.link/inv004.pdf
+INV-005,VEND-04,2025-08-28,500.0,90.0,INR,Approved,https://docs.link/inv005.pdf
+INV-006,VEND-02,2025-08-30,1200.0,216.0,INR,Approved,https://docs.link/inv006.pdf
