@@ -64,3 +64,9 @@ CSV files (dataset) → reconciled_results.csv, exceptions.csv, compliance_issue
 MySQL tables → reconciled_results, exceptions, compliance_issues
 
 6. Open the Power BI file (Financial_Audit.pbix) to see dashboards.
+
+##  Contact
+👤 Rithika
+📧 Email: rithikaramalingam37@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/rithika-ramalingam-r-02714b244/)
+💻 [GitHub]
