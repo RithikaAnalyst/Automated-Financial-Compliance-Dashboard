@@ -58,7 +58,7 @@ pip install -r requirements.txt
 python scripts/reconciliation_pipeline.py
 
 5. Check the results:
-CSV files → reconciled_results.csv, exceptions.csv, compliance_issues.csv
+CSV files (dataset) → reconciled_results.csv, exceptions.csv, compliance_issues.csv
 MySQL tables → reconciled_results, exceptions, compliance_issues
 
 6. Open the Power BI file (Financial_Audit.pbix) to see dashboards.
