@@ -47,7 +47,7 @@ This project automates financial reconciliation and compliance monitoring by com
 ![ Executive Summary] ([visual/Executive summary (2).png](https://github.com/RithikaAnalyst/Automated-Financial-Compliance-Dashboard/blob/main/visual/Executive%20summary%20(2).png))
 
 ### 🔹 Invoice Audit & Risk Insights
-![Invoice Audit & Risk Insights](https://github.com/RithikaAnalyst/Automated-Financial-Compliance-Dashboard/blob/main/visual/Invoice%20Audit%20%26%20Risk%20Insights.png)
+[Invoice Audit & Risk Insights](https://github.com/RithikaAnalyst/Automated-Financial-Compliance-Dashboard/blob/main/visual/Invoice%20Audit%20%26%20Risk%20Insights.png)
 [PowerBI Link](https://app.powerbi.com/groups/me/reports/cb75f0e1-1d92-49db-a706-6978ea4a1779/3c26626306ff10010ea8?experience=power-bi)
 
 ## How to Run
